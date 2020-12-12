@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SwayGrass
+  m_Shader: {fileID: -6465566751694194690, guid: 49ccb0a1e5ec81849be4e69e3b97165b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_271F6A41:
+        m_Texture: {fileID: 2800000, guid: 2ba7ace827ca6964e86f245592bd2480, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B6081CF5:
+        m_Texture: {fileID: 2800000, guid: 710b578f33ab59e45ae569419e2595b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BF6800E:
+        m_Texture: {fileID: 2800000, guid: c8de0ae1198046b48a499e51aae055d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_789AEE05: 0.2
+    - Vector1_AED918EA: 0.1
+    - Vector1_B19713DE: 0.27
+    - Vector1_F6D50542: 0.3
+    - Vector1_F6E4556C: 3.2
+    m_Colors:
+    - Color_3D0E514: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_77A0E62D: {r: 3, g: 0, b: 0, a: 0}
